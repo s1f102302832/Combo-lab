@@ -1,5 +1,5 @@
-# Rooted
-タスク管理ツールをウェブ上で開発する
+# Combo-lab & Rooted
+格闘ゲームに関するサイトの作成 ＆ タスク管理ツールをウェブ上で開発する
 
 ---
 
@@ -76,3 +76,4 @@ export default defineConfig([
   },
 ])
 ```
+
